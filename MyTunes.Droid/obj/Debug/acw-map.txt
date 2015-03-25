@@ -1,0 +1,2 @@
+MyTunes.MainActivity;mytunes.MainActivity
+MyTunes.ListAdapter`1;mytunes.ListAdapter_1

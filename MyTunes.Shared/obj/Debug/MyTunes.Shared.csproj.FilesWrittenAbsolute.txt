@@ -1,0 +1,6 @@
+/Users/markbrown/workspace/XamarinUniversity/MyTunes-PCL/MyTunes.Shared/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/markbrown/workspace/XamarinUniversity/MyTunes-PCL/MyTunes.Shared/bin/Debug/MyTunes.Shared.dll.mdb
+/Users/markbrown/workspace/XamarinUniversity/MyTunes-PCL/MyTunes.Shared/bin/Debug/MyTunes.Shared.dll
+/Users/markbrown/workspace/XamarinUniversity/MyTunes-PCL/MyTunes.Shared/obj/Debug/MyTunes.Shared.dll
+/Users/markbrown/workspace/XamarinUniversity/MyTunes-PCL/MyTunes.Shared/obj/Debug/MyTunes.Shared.dll.mdb
+/Users/markbrown/workspace/XamarinUniversity/MyTunes-PCL/MyTunes.Shared/bin/Debug/Newtonsoft.Json.dll
